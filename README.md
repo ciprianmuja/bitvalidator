@@ -1,1 +1,1 @@
-# BitValidator
+# bitvalidator
